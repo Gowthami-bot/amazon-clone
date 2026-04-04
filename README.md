@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/amazon-clone)
+![GitHub stars](https://img.shields.io/github/stars/your-username/amazon-clone?style=social)
 # 🛒 Amazon Clone (Frontend)
 
 Responsive design of an Amazon website clone created in HTML, CSS, and JavaScript.
@@ -32,3 +34,11 @@ https://your-username.github.io/amazon-clone/
 - CSS
 - JS
 
+## Author
+
+**Gowthami**
+
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+
+- > This project is part of my journey to become a full-stack developer.
