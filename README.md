@@ -38,7 +38,6 @@ https://your-username.github.io/amazon-clone/
 
 **Gowthami**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/Gowthami-bot
 
 - > This project is part of my journey to become a full-stack developer.
