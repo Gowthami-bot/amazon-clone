@@ -1,11 +1,11 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/amazon-clone)
-![GitHub stars](https://img.shields.io/github/stars/your-username/amazon-clone?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/Gowthami-bot/amazone)
+![Stars](https://img.shields.io/github/stars/Gowthami-bot/amazone?style=social)
 # 🛒 Amazon Clone (Frontend)
 
 Responsive design of an Amazon website clone created in HTML, CSS, and JavaScript.
 
 ## Live Demo
-https://your-username.github.io/amazon-clone/
+https://Gowthami-bot.github.io/amazone/
 
 ## Screenshots
 
