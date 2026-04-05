@@ -5,7 +5,7 @@
 Responsive design of an Amazon website clone created in HTML, CSS, and JavaScript.
 
 ## Live Demo
-https://Gowthami-bot.github.io/amazone/
+https://Gowthami-bot.github.io/amazon-clone/
 
 ## Screenshots
 
